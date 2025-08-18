@@ -1,11 +1,11 @@
 <!-- Анимированный титульный баннер -->
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=27A0F7&center=true&vCenter=true&width=500&height=60&lines=Hi;+I'm+Filipp" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=27A0F7&center=true&vCenter=true&width=500&height=60&lines=Hi;I+build;On" alt="Typing SVG">
   </a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=27A0F7&center=true&vCenter=true&width=800&height=50&lines=Backend;Golang;Microservices;" alt="Титульный баннер">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=27A0F7&center=true&vCenter=true&width=800&height=50&lines=I'm+Filipp;Microservices;Golang;" alt="Титульный баннер">
 </div>
 </h1>
 
