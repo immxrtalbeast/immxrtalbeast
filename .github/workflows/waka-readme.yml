@@ -24,3 +24,4 @@ jobs:
           CODE_LANG: go
           SHOW_TIME: True
           SHOW_TOTAL: True
+          BLOCKS: ->
