@@ -1,15 +1,10 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
-  push: # Runs on every push to the main branch
-    branches:
-      - main
-
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -17,21 +12,18 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          SECTION_NAME: "wakatime"
+          SECTION_NAME: waka
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} 
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_DAYS_OF_WEEK: "False"
-          SHOW_PROJECTS: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_SHORT_INFO: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_OS: "True"
-          SHOW_EDITORS: "False"  # Новая опция - показывать редакторы
-          SYMBOL_VERSION: "3"
-          SHOW_LOC_CHART: "True"  # Включить мини-график
-          SHOW_UPDATED_DATE: "True"
-          SHOW_TOTAL_CODE_TIME: "True"  # Показать общее время кодинга
-          SHOW_COMMIT: "True"  # Показать информацию о коммитах
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: True
+          SHOW_PROFILE_VIEWS: False
+          SHOW_DAYS_OF_WEEK: False
+          SHOW_PROJECTS: False
+          SHOW_TIMEZONE: False
+          SHOW_LANGUAGE_PER_REPO: False
+          SHOW_SHORT_INFO: False
+          SHOW_LANGUAGE: True
+          SHOW_OS: True
+          SYMBOL_VERSION: 3
+          SHOW_LOC_CHART: False
+          SHOW_UPDATED_DATE: False
