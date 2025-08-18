@@ -70,16 +70,6 @@
   <img src="https://streak-stats.demolab.com?user=immxrtalbeast&theme=react&border_radius=5&mode=weekly" alt="GitHub Streak" /> 
 </div>
 
-###
-
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/immxrtalbeast/immxrtalbeast/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/immxrtalbeast/immxrtalbeast/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/immxrtalbeast/immxrtalbeast/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <!--START_SECTION:waka-->
 
@@ -91,3 +81,16 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+###
+
+<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/immxrtalbeast/immxrtalbeast/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/immxrtalbeast/immxrtalbeast/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/immxrtalbeast/immxrtalbeast/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
