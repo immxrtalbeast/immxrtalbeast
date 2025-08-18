@@ -33,7 +33,5 @@ jobs:
           SYMBOL_VERSION: "3"
           SHOW_LOC_CHART: "True"  # Включить мини-график
           SHOW_UPDATED_DATE: "True"
-          LOCALE: "ru"  # Локализация на русский
           SHOW_TOTAL_CODE_TIME: "True"  # Показать общее время кодинга
           SHOW_COMMIT: "True"  # Показать информацию о коммитах
-          SHOW_DAILY_AVERAGE: "True"  # Показать дневную норму
