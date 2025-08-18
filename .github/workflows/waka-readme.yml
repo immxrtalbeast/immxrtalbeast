@@ -20,3 +20,7 @@ jobs:
           SHOW_LINES_OF_CODE: True
           SHOW_LANGUAGE: True
           SHOW_OS: True
+          TIME_RANGE: all_time
+          CODE_LANG: go
+          SHOW_TIME: True
+          SHOW_TOTAL: True
