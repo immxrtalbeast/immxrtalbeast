@@ -75,12 +75,6 @@ Protocol Buffer   3 hrs 20 mins   -------------------------   01.15 %
 
 <!--END_SECTION:waka-->
 
-###
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=immxrtalbeast&theme=react&border_radius=5&mode=weekly" alt="GitHub Streak" /> 
-</div>
 
 ###
 
