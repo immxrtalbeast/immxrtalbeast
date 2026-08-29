@@ -64,13 +64,13 @@
 <!--START_SECTION:waka-->
 
 ```go
-Total Time: 533 hrs 9 mins
+Total Time: 538 hrs 5 mins
 
-Go                227 hrs 4 mins        >>>>>>>>>>---------------   41.01 %
-Python            128 hrs 5 mins        >>>>>>-------------------   23.13 %
-Markdown          45 hrs 20 mins        >>-----------------------   08.19 %
-YAML              28 hrs 26 mins        >------------------------   05.14 %
-TypeScript        20 hrs 39 mins        >------------------------   03.73 %
+Go                227 hrs 4 mins        >>>>>>>>>>---------------   40.63 %
+Python            128 hrs 41 mins       >>>>>>-------------------   23.02 %
+Markdown          46 hrs 37 mins        >>-----------------------   08.34 %
+YAML              28 hrs 26 mins        >------------------------   05.09 %
+Other             20 hrs 50 mins        >------------------------   03.73 %
 ```
 
 <!--END_SECTION:waka-->
