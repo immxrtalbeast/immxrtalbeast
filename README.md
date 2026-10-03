@@ -52,7 +52,6 @@
 ### 🤝 About me
 
 ```text
-🎓 Student: Second year of DSTU
 💻 Specialization: Backend development with Golang
 🚀 Interests: Microservices, highload
 📚 Learning RN: Kubernetes, RabbitMQ, GRPC
