@@ -1,64 +1,42 @@
-<!-- Анимированный титульный баннер -->
-<h1 align="center"> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=27A0F7&center=true&vCenter=true&width=500&height=60&lines=Hi;I+build;On" alt="Typing SVG">
-  </a>
+<div align="center">
+
+<a href="https://t.me/c0dys"><img src="./assets/hero.svg" width="100%" alt="Hi, I'm Filipp — Go backend engineer: microservices, event-driven systems, highload"/></a>
+
+<a href="https://t.me/c0dys"><img src="https://img.shields.io/badge/Telegram-@c0dys-22d3ee?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1020" alt="Telegram"/></a>
+<img src="https://img.shields.io/badge/Go-backend-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1020" alt="Go backend"/>
+<img src="https://komarev.com/ghpvc/?username=immxrtalbeast&style=for-the-badge&color=a78bfa&labelColor=0d1020&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
+
+<br/>
+
+<img src="./assets/h-about.svg" width="100%" alt="About"/>
+<img src="./assets/about.svg" width="100%" alt="type Filipp struct{} — backend developer, Go, microservices & highload; learning Kubernetes, RabbitMQ, gRPC"/>
+
+<br/><br/>
+
+<img src="./assets/h-stack.svg" width="100%" alt="Tech stack"/>
+<img src="./assets/stack.svg" width="100%" alt="Go, PostgreSQL, Redis, Kafka, Docker, Linux, Prometheus, Grafana, GitLab CI, Postman; learning Kubernetes, RabbitMQ, gRPC, system design"/>
+
+<br/><br/>
+
+<img src="./assets/h-arch.svg" width="100%" alt="How I build"/>
+<img src="./assets/arch.svg" width="100%" alt="Animated architecture: client → Go API gateway → gRPC services → Kafka → Postgres / Redis, observed with Prometheus & Grafana"/>
+
+<br/><br/>
+
+<img src="./assets/h-stats.svg" width="100%" alt="Activity"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=27A0F7&center=true&vCenter=true&width=800&height=50&lines=I'm+Filipp;Microservices;Golang;" alt="Титульный баннер">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution city"/>
+</picture>
+
+<img src="https://streak-stats.demolab.com?user=immxrtalbeast&hide_border=true&background=0d1020&stroke=2a2f4a&ring=a78bfa&fire=f472b6&currStreakNum=e6e9f5&sideNums=e6e9f5&currStreakLabel=22d3ee&sideLabels=22d3ee&dates=7c86a2&card_width=1200&border_radius=18" width="100%" alt="GitHub streak"/>
+
 </div>
-</h1>
-
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="35" alt="postgresql logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="35" alt="docker logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="35" alt="go logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="35" alt="linux logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="35" alt="postman logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="35" alt="gitlab logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=black&style=for-the-badge" height="35" alt="grafana logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" height="35" alt="prometheus logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="35" alt="redis logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" height="35" alt="apachekafka logo"  />
-</div>
-
-###
-
-
-<!-- Анимированные иконки контактов -->
-### 🔍️ Contact me 
-
-<div align="left">
-  <a href="https://t.me/c0dys" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" alt="telegram"  />
-</div>
-
-###
-
-
-
-### 🤝 About me
-
-```text
-💻 Specialization: Backend development with Golang
-🚀 Interests: Microservices, highload
-📚 Learning RN: Kubernetes, RabbitMQ, GRPC
-```
-
-
-###
 
 <!--START_SECTION:waka-->
 
@@ -74,16 +52,12 @@ YAML              29 hrs 48 mins        >------------------------   04.55 %
 
 <!--END_SECTION:waka-->
 
-
-###
-
-<br clear="both">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/immxrtalbeast/immxrtalbeast/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/immxrtalbeast/immxrtalbeast/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/immxrtalbeast/immxrtalbeast/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/immxrtalbeast/immxrtalbeast/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/immxrtalbeast/immxrtalbeast/output/pacman-contribution-graph.svg"/>
+  <img width="100%" alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/immxrtalbeast/immxrtalbeast/output/pacman-contribution-graph.svg"/>
 </picture>
 
-###
+<br/><br/>
 
-
+<a href="https://t.me/c0dys"><img src="./assets/footer.svg" width="100%" alt="Let's build something that scales — ping me on Telegram @c0dys"/></a>

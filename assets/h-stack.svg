@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" fill="none"><style>.ln{stroke-dasharray:1200;animation:ln 2.4s cubic-bezier(.6,0,.2,1) both}@keyframes ln{from{stroke-dashoffset:1200}to{stroke-dashoffset:0}}
+.dot{animation:dot 2s ease-in-out infinite}@keyframes dot{50%{opacity:.3}}</style><defs><linearGradient id="hl" x1="44" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient></defs>
+  <circle class="dot" cx="18" cy="38" r="6" fill="#a78bfa"/><circle cx="18" cy="38" r="12" stroke="#a78bfa" stroke-opacity=".4"/>
+  <text x="44" y="48" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="800" fill="#a78bfa">Tech Stack</text>
+  <text x="220" y="47" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,Menlo,Consolas,monospace" font-size="14" fill="#8b93ad">tools I ship with</text>
+  <path class="ln" d="M44 64 H1200" stroke="url(#hl)" stroke-width="2"/></svg>
